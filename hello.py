@@ -1,5 +1,2 @@
-print("Hello GitHub!")
-print("I am learning Git for NASA Space Apps.")
-
-name = "Sai"
-print("My name is", name)
+print("NASA Space Apps 2026")
+print("Researcher: Sai")
